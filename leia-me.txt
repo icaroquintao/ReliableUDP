@@ -1,0 +1,8 @@
+Instruções para a execução:
+
+Recomendamos a utilização do NetBeans IDE 8.2 para a melhor vizualização do sistema. 
+Utilizamos o prompt de comando do Netbeans, executar primeiro o servidor, depois o cliente.
+Uma conta com usuário marlon e senha 2020 foi criada, porém a criação de usuários também é possivel.
+Verificar o IP na classa UDPSocket do servidor e do cliente.
+Pode-se adicionar qualquer tipo de arquivo para a transferência, mas não se esquecer de alterar a lista contida em Files,
+que cerca os arquivos que podem ou não ser baixados pelo cliente.
